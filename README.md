@@ -58,7 +58,7 @@ A bit about me ...
 - Linux system administration
 - Amazon Lightsail VPS
 
-I created, and continue to run, an online community for IBM i professionals called midrange.com.  It hosts technical discussion mailing lists, list archives, and an IBM i dedicated wiki.
+I created, and continue to run, an online community for IBM i professionals called [midrange.com](https://midrange.com).  It hosts technical discussion mailing lists, list archives, and an IBM i dedicated wiki.
 
 From 2010-2016 I was an IBM Power System Champion for my work supporting the IBM i professional community.
 
@@ -68,5 +68,5 @@ I am an avid cyclist, sometime shutterbug, and an passionate advocate for the di
 
 
 Boring trivia about me ...
-- The longest distance I've ridden on my bike, in one day, is 131 miles.
-- I used to know how to program an IBM 029 keypunch.
+- The longest distance I've ridden on my bike, in one day, is [131 miles](https://www.strava.com/activities/1052619836).
+- I used to know how to program an [IBM 029 keypunch](https://en.wikipedia.org/wiki/Keypunch#IBM_029_Card_Punch).
