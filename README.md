@@ -7,6 +7,7 @@ A bit about me ...
 - Data General CS/60
 - System/36
 - System/34
+- Windows
 - Linux (Ubuntu & Redhat)
 - IBM i (AS/400 / iSeries / System i)
 - Mac
@@ -18,18 +19,18 @@ A bit about me ...
 - Kotlin (well, learning it at least)
 - Shell scripting
 
-## A smattering of...
+### A smattering of...
 - PHP
 - JavaScript
 
-## Some languages I used to know ...
+### Some languages I used to know ...
 - Applesoft Basic
 - BAL (Basic Assembly Language) on IBM 360
 - 6502 assembler (anyone who needs more than an accumulator and two offset registers is just plain lazy)
 - Visual Basic
 - dBase II
 
-## And a few languages I don't want to admit to knowing...
+### And a few languages I don't want to admit to knowing...
 - COBOL
 - Python (white space for control structures???)
 - LotusScript
