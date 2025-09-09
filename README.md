@@ -16,7 +16,7 @@ A bit about me ...
 - RPG (II, III, IV, free)
 - CLP
 - Java
-- Kotlin (well, learning it at least)
+- Kotlin (a little)
 - Shell scripting
 
 ### A smattering of...
@@ -30,7 +30,7 @@ A bit about me ...
 - Visual Basic
 - dBase II
 
-### And a few languages I don't want to admit to knowing...
+### And a few languages I don't want to admit to knowing (or have known) ...
 - COBOL
 - Python (white space for control structures???)
 - LotusScript
@@ -47,7 +47,7 @@ A bit about me ...
 - MySQL
 - PostgreSql
 
-## Open Source projects I'm involved in...
+## Open Source projects I'm involved in (or have been) ...
 - Back In Time
 - JTOpen
 
@@ -66,7 +66,6 @@ From 2010-2016 I was an IBM Power System Champion for my work supporting the IBM
 I was awarded the COMMON Distinguished Service Award in 2008.
 
 I am an avid cyclist, sometime shutterbug, and an passionate advocate for the diabetic community.
-
 
 Boring trivia about me ...
 - The longest distance I've ridden on my bike, in one day, is [131 miles](https://www.strava.com/activities/1052619836).
