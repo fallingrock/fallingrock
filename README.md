@@ -9,7 +9,7 @@ A bit about me ...
 - System/34
 - Windows
 - Linux (Ubuntu & Redhat)
-- IBM i (AS/400 / iSeries / System i)
+- [IBM i](https://www.ibm.com/products/ibm-i) (AS/400 / iSeries / System i)
 - Mac
 
 ## Programming languages I know...
@@ -40,7 +40,7 @@ A bit about me ...
 - JavaFX
 - Swing
 - SWT (Standard Widget Toolkit ... the UI framework used in Eclipse)
-- JT400 (Java Toolkit for IBM i)
+- [JT400](https://github.com/IBM/JTOpen) (Java Toolkit for IBM i)
 
 ## Databases I've used ...
 - DB2 on IBM i
@@ -63,7 +63,7 @@ I created, and continue to run, an online community for IBM i professionals call
 
 From 2010-2016 I was an IBM Power System Champion for my work supporting the IBM i professional community.
 
-I was awarded the COMMON Distinguished Service Award in 2008.
+I was awarded the [COMMON](https://www.common.org) Distinguished Service Award in 2008.
 
 I am an avid cyclist, sometime shutterbug, and an passionate advocate for the diabetic community.
 
