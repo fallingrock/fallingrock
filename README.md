@@ -39,6 +39,7 @@ A bit about me ...
 - Spring
 - JavaFX
 - Swing
+- Eclipse RCP
 - SWT (Standard Widget Toolkit ... the UI framework used in Eclipse)
 - [JT400](https://github.com/IBM/JTOpen) (Java Toolkit for IBM i)
 
@@ -47,9 +48,14 @@ A bit about me ...
 - MySQL
 - PostgreSql
 
+## IDE's I'm familiar with...
+- Eclipse
+- Rational Developer for i
+- IntelliJ
+
 ## Open Source projects I'm involved in (or have been) ...
-- Back In Time
-- JTOpen
+- [Back In Time](https://github.com/bit-team/backintime)
+- [JTOpen](https://github.com/IBM/JTOpen)
 
 ## Miscellaneous technical topics I'm familiar with ...
 - Sendmail
@@ -58,6 +64,7 @@ A bit about me ...
 - Spamassassin
 - Linux system administration
 - Amazon Lightsail VPS
+- Docker (beginning)
 
 I created, and continue to run, an online community for IBM i professionals called [midrange.com](https://midrange.com).  It hosts technical discussion mailing lists, list archives, and an IBM i dedicated wiki.
 
@@ -66,6 +73,8 @@ From 2010-2016 I was an IBM Power System Champion for my work supporting the IBM
 I was awarded the [COMMON](https://www.common.org) Distinguished Service Award in 2008.
 
 I am an avid cyclist, sometime shutterbug, and an passionate advocate for the diabetic community.
+
+I recently got into drone flying.
 
 Boring trivia about me ...
 - The longest distance I've ridden on my bike, in one day, is [131 miles](https://www.strava.com/activities/1052619836).
